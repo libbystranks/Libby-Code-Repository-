@@ -1,1 +1,2 @@
-# Libby-Code-Repository-
+# Libby-Code-Repository
+The code presented is from the projects I have worked on as a contirbution to my studies. The water wuality project was the largest project I have worked on to date, having helped in building an XGBoost model after completing extensive EDA on a very large data set containing almost 20 million rows. The project endeavored to generate a predictive model that could be used as a planning tool for local councils to predict the impact changing land composition and usage may have on water quality in the area. 
